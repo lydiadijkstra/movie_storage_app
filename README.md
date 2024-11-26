@@ -1,4 +1,3 @@
-Here’s the updated **README.md** file content for easy copying:
 
 ```markdown
 # **Movie Project with OOP**
