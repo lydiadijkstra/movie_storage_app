@@ -1,0 +1,32 @@
+{
+    "The shawshank redemption": {
+        "rating": "9.3/10",
+        "year": "1994",
+        "poster url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Pulp fiction": {
+        "rating": "8.9/10",
+        "year": "1994",
+        "poster url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "The godfather": {
+        "rating": "9.2/10",
+        "year": "1972",
+        "poster url": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "The dark night": {
+        "rating": "6.6/10",
+        "year": "2001",
+        "poster url": "https://m.media-amazon.com/images/M/MV5BOTAyNzMyNDMtYWJjZi00MDEwLThkYWEtYTNlNGUzZDFkYjUyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg"
+    },
+    "Grease": {
+        "rating": "7.2/10",
+        "year": "1978",
+        "poster url": "https://m.media-amazon.com/images/M/MV5BNGY0NzE0ZTctN2YzNC00M2IwLWI0OWYtMTAwZWU2NjZhMTQwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Titanic": {
+        "rating": "7.9/10",
+        "year": "1997",
+        "poster url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+}
